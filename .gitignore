@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Database
+water_tracker.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
